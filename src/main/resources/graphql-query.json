@@ -1,0 +1,1 @@
+{"query": "query { pokemons { name weight game { name } } games { name } game(id: \"game-2\") { name } }"}
